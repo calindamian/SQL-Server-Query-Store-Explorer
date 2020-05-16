@@ -215,6 +215,8 @@ write_delim ("C:\\Users\\results.csv" , append = F , delim = ";" ,col_names= T )
 ```
 </details>
 
+## Demo
+Live demo : https://calindamian.shinyapps.io/sql_query_store_explorer/
 
 ## Contact
 
