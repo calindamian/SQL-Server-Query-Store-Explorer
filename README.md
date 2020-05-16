@@ -32,7 +32,7 @@ I provide also a R script that allows to execute a query on multiple dbs and sav
   * Extract query activity (you can filter out data on a start date ) and save all the results in a single file. 
 <details>
 <summary>activity query</summary>
-    ```sql
+    ```{sql}
     DECLARE @startdate DATETIME= '20200514';
     ;WITH cte
          AS (SELECT DB_NAME(DB_ID()) AS database_name, 
