@@ -14,6 +14,8 @@ However the exploration and visualisations available in sql management studio al
 The objective of Shiny Explorer is to have a global view of the queries for all databases where query store is enabled.
 The current version allows interactive exploration of query activity and visualisation of query plans. 
 
+![image](https://user-images.githubusercontent.com/61669129/97781410-6abb5c80-1b8b-11eb-8e5e-d824ede31988.png)
+
 ## Prerequisites
 
 ### SQL Server Side
